@@ -85,7 +85,7 @@ Example Usage
     client = ZaloAPI("<phone>", "<password>", imei=imei, session_cookies=cookies)
     client.send(Message(text="Hi Myself!"), thread_id=client.uid, thread_type=ThreadType.USER)
 
-More examples are available `here <https://github.com/Its-VrxxDev/zlapi/tree/master/examples>`__.
+More examples are available `here <https://github.com/Its-VrxxDev/zlapi/tree/main/examples>`__.
 
 Contact
 -------

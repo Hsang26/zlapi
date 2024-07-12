@@ -19,7 +19,7 @@ This project is a project to be relocated from ``zaloapi`` because this module h
     :alt: License: MIT License
 
 .. image:: https://readthedocs.org/projects/zlapi/badge/?version=stable
-    :target: https://vrxx1337.dev/zaloapi/docs/lastest
+    :target: https://vrxx1337.dev/zlapi/docs/lastest
     :alt: Documentation
 
 
@@ -49,7 +49,7 @@ However, there's a catch! **Using this library may not comply with Zalo's Terms 
 .. inclusion-marker-intro-end
 .. This message doesn't make sense in the docs at Read The Docs, so we exclude it
 
-With that out of the way, you may go to `Docs <https://vrxx1337.dev/zaloapi/docs/lastest/>`__ to see the full documentation!
+With that out of the way, you may go to `Docs <https://vrxx1337.dev/zlapi/docs/lastest/>`__ to see the full documentation!
 
 .. inclusion-marker-installation-start
 

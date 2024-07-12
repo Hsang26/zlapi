@@ -1,8 +1,3 @@
-This project is a relocation
-============================
-
-This project is a project to be relocated from ``zaloapi`` because this module has been removed from Pypi and the reason is unknown.
-
 ``zlapi`` - Zalo API (Website) for Python
 ===========================================
 
@@ -86,6 +81,12 @@ Example Usage
     client.send(Message(text="Hi Myself!"), thread_id=client.uid, thread_type=ThreadType.USER)
 
 More examples are available `here <https://github.com/Its-VrxxDev/zlapi/tree/main/examples>`__.
+
+This project is a relocation
+============================
+
+This project is a project to be relocated from ``zaloapi`` because this module has been removed from Pypi and the reason is unknown.
+
 
 Contact
 -------
